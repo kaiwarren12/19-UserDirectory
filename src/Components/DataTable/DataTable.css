@@ -1,0 +1,30 @@
+table {
+  margin: auto;
+}
+
+.theaders,
+.tdata {
+  border-left: 1px solid black;
+  padding: 1.5rem;
+}
+
+.tdata {
+  border-bottom: 1px solid black;
+}
+
+.timage {
+  border-right: 1px solid black;
+}
+.theaders {
+  border-bottom: 1px solid black;
+  border-top: 1px solid black;
+}
+
+.table-tools {
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+  width: 50%;
+  margin: 0% auto;
+  margin-bottom: 1rem;
+}
